@@ -1,0 +1,11 @@
+{
+    "name": "bdd-example",
+    "version": "1.0.0",
+    "description": "A simple example of a Cucumber-JS project",
+    "scripts": {
+        "test": "cucumber-js"
+    },
+    "devDependencies": {
+        "@cucumber/cucumber": "11.2.0"
+    }
+}
